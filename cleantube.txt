@@ -1,5 +1,7 @@
 ! Title: cleantube
+########################################################
 www.youtube.com##.sbdd_b
+www.youtube.com##.ytp-heat-map-chapter
 www.youtube.com###voice-search-button
 www.youtube.com##ytd-browse #video-title-link[href*="&start_radio=1"]:upward(ytd-rich-item-renderer)
 www.youtube.com##ytd-search ytd-radio-renderer
